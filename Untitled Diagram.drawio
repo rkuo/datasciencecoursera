@@ -121,6 +121,9 @@
         <mxCell id="W4eRgRo1P_NEl5NoMjZ7-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="JHcX7QwQRE08v6O79gZc-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
